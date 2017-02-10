@@ -1,0 +1,4 @@
+**/__pycache__/**
+dist/**
+src/data/**
+src/*.egg-info/**
